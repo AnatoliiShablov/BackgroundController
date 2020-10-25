@@ -1,0 +1,8 @@
+{
+    "uuid": "BackgroundController@anatoliishablov.gmail.com",
+    "name": "BackgroundController",
+    "description": "This extension will help you to control your background images.",
+    "version": 1,
+    "shell-version": [ "3.36" ],
+    "url": "https://github.com/AnatoliiShablov/BackgroundController"
+}
